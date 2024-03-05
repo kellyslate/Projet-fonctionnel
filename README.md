@@ -1,4 +1,4 @@
-# Démineur Fonctionnel
+# Démineur Fonctionnel par Jory et Thibaut
 
 Ce projet est une implémentation du jeu Démineur en Python utilisant une approche fonctionnelle avec des méthodes pures.
 
